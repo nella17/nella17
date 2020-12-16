@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 391 Contributions in the Year 2020
+> 🏆 393 Contributions in the Year 2020
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 33 Private Repositories  
 
