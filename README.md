@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 393 Contributions in the Year 2020
+> 🏆 413 Contributions in the Year 2020
  > 
 > 📦 1.1 MB Used in Github's Storage 
  > 
@@ -28,27 +28,27 @@ Here are some ideas to get you started:
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 33 Private Repositories  
-
+> 🔑 35 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ██████░░░░░░░░░░░░░░░░░░░   27.14% 
-🌆 Daytime    70 commits     ██████░░░░░░░░░░░░░░░░░░░   26.02% 
-🌃 Evening    85 commits     ████████░░░░░░░░░░░░░░░░░   31.6% 
-🌙 Night      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.24%
+🌞 Morning    73 commits     ██████░░░░░░░░░░░░░░░░░░░   26.16% 
+🌆 Daytime    70 commits     ██████░░░░░░░░░░░░░░░░░░░   25.09% 
+🌃 Evening    95 commits     ████████░░░░░░░░░░░░░░░░░   34.05% 
+🌙 Night      41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
-Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
-Thursday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Friday       9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-Saturday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.84% 
-Sunday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   20.07%
+Monday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
+Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
+Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Friday       9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+Saturday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
+Sunday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.35%
 
 ```
 
@@ -66,11 +66,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
