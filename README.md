@@ -30,25 +30,25 @@ Here are some ideas to get you started:
  > 
 > 🔑 35 Private Repositories  
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    75 commits     ██████░░░░░░░░░░░░░░░░░░░   25.51% 
-🌆 Daytime    69 commits     █████░░░░░░░░░░░░░░░░░░░░   23.47% 
-🌃 Evening    110 commits    █████████░░░░░░░░░░░░░░░░   37.41% 
-🌙 Night      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61%
+🌞 Morning    70 commits     ██████░░░░░░░░░░░░░░░░░░░   27.34% 
+🌆 Daytime    64 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌃 Evening    87 commits     ████████░░░░░░░░░░░░░░░░░   33.98% 
+🌙 Night      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
-Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
-Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Friday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-Saturday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-Sunday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.37%
+Monday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+Wednesday    47 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
+Thursday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+Saturday     48 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Sunday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.09%
 
 ```
 
