@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 18 Contributions in the Year 2021
+> 🏆 22 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -66,11 +66,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ███████░░░░░░░░░░░░░░░░░░   31.43% 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
+Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
