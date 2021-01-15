@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 22 Contributions in the Year 2021
+> 🏆 25 Contributions in the Year 2021
  > 
 > 📦 1.2 MB Used in Github's Storage 
  > 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 38 Private Repositories  
+> 🔑 39 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
