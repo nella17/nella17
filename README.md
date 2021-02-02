@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 114 Contributions in the Year 2021
+> 🏆 111 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 42 Private Repositories  
+> 🔑 41 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
