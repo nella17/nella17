@@ -20,35 +20,35 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 112 Contributions in the Year 2021
+> 🏆 116 Contributions in the Year 2021
  > 
 > 📦 1.3 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 41 Private Repositories  
+> 🔑 42 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    87 commits     ███████░░░░░░░░░░░░░░░░░░   28.9% 
-🌆 Daytime    77 commits     ██████░░░░░░░░░░░░░░░░░░░   25.58% 
-🌃 Evening    87 commits     ███████░░░░░░░░░░░░░░░░░░   28.9% 
-🌙 Night      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.61%
+🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.39% 
+🌆 Daytime    77 commits     ██████░░░░░░░░░░░░░░░░░░░   26.74% 
+🌃 Evening    86 commits     ███████░░░░░░░░░░░░░░░░░░   29.86% 
+🌙 Night      49 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.01%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64% 
-Wednesday    58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-Thursday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Saturday     54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.94% 
-Sunday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27%
+Monday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.99% 
+Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.71% 
+Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.42% 
+Saturday     55 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1% 
+Sunday       58 commits     █████░░░░░░░░░░░░░░░░░░░░   20.14%
 
 ```
 
