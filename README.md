@@ -16,39 +16,39 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 140 Contributions in the Year 2021
+> 🏆 86 Contributions in the Year 2021
  > 
-> 📦 1.3 MB Used in Github's Storage 
+> 📦 214.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 7 Public Repositories 
  > 
-> 🔑 43 Private Repositories  
+> 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     ██████░░░░░░░░░░░░░░░░░░░   26.95% 
-🌆 Daytime    72 commits     ██████░░░░░░░░░░░░░░░░░░░   25.53% 
-🌃 Evening    87 commits     ███████░░░░░░░░░░░░░░░░░░   30.85% 
-🌙 Night      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+🌞 Morning    39 commits     ██████░░░░░░░░░░░░░░░░░░░   26.9% 
+🌆 Daytime    46 commits     ████████░░░░░░░░░░░░░░░░░   31.72% 
+🌃 Evening    41 commits     ███████░░░░░░░░░░░░░░░░░░   28.28% 
+🌙 Night      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       47 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
-Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-Friday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-Saturday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
-Sunday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86%
+Monday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
+Tuesday      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
+Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
+Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Sunday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
@@ -66,11 +66,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████░░░░░░░░░░░░░░░░   37.5% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Ruby                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
