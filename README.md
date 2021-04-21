@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 113 Contributions in the Year 2021
+> 🏆 115 Contributions in the Year 2021
  > 
 > 📦 214.6 kB Used in Github's Storage 
  > 
@@ -33,22 +33,22 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    39 commits     ██████░░░░░░░░░░░░░░░░░░░   26.9% 
-🌆 Daytime    46 commits     ████████░░░░░░░░░░░░░░░░░   31.72% 
-🌃 Evening    41 commits     ███████░░░░░░░░░░░░░░░░░░   28.28% 
-🌙 Night      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1%
+🌞 Morning    39 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53% 
+🌆 Daytime    48 commits     ████████░░░░░░░░░░░░░░░░░   32.65% 
+🌃 Evening    41 commits     ███████░░░░░░░░░░░░░░░░░░   27.89% 
+🌙 Night      19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Tuesday      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
-Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.1% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Sunday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Monday       23 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Tuesday      23 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
+Wednesday    26 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.69% 
+Thursday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
+Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+Sunday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   19.73%
 
 ```
 
