@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 146 Contributions in the Year 2021
+> 🏆 147 Contributions in the Year 2021
  > 
 > 📦 215.4 kB Used in Github's Storage 
  > 
@@ -33,22 +33,22 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    42 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0% 
-🌆 Daytime    53 commits     ███████░░░░░░░░░░░░░░░░░░   30.29% 
-🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   34.86% 
-🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86%
+🌞 Morning    42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.86% 
+🌆 Daytime    54 commits     ███████░░░░░░░░░░░░░░░░░░   30.68% 
+🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   34.66% 
+🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71% 
-Wednesday    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.14% 
-Thursday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.57%
+Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
+Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+Wednesday    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.02% 
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
+Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
+Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48%
 
 ```
 
@@ -68,9 +68,9 @@ No Activity Tracked This Week
 ```text
 JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
 Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Ruby                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
 
