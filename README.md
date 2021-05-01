@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 147 Contributions in the Year 2021
+> 🏆 148 Contributions in the Year 2021
  > 
 > 📦 215.4 kB Used in Github's Storage 
  > 
@@ -33,22 +33,22 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.86% 
-🌆 Daytime    54 commits     ███████░░░░░░░░░░░░░░░░░░   30.68% 
-🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   34.66% 
-🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8%
+🌞 Morning    42 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73% 
+🌆 Daytime    55 commits     ███████░░░░░░░░░░░░░░░░░░   31.07% 
+🌃 Evening    61 commits     ████████░░░░░░░░░░░░░░░░░   34.46% 
+🌙 Night      19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.73%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
-Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
-Wednesday    37 commits     █████░░░░░░░░░░░░░░░░░░░░   21.02% 
-Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
-Friday       19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.8% 
-Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.52% 
-Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48%
+Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
+Tuesday      38 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47% 
+Wednesday    37 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9% 
+Thursday     13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.34% 
+Friday       20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.3% 
+Saturday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.47% 
+Sunday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.38%
 
 ```
 
@@ -68,9 +68,9 @@ No Activity Tracked This Week
 ```text
 JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
 Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Ruby                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
