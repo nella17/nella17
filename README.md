@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 221 Contributions in the Year 2021
+> 🏆 231 Contributions in the Year 2021
  > 
 > 📦 214.9 kB Used in Github's Storage 
  > 
@@ -28,27 +28,27 @@ Here are some ideas to get you started:
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    103 commits    ██████░░░░░░░░░░░░░░░░░░░   26.61% 
-🌆 Daytime    125 commits    ████████░░░░░░░░░░░░░░░░░   32.3% 
-🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   25.32% 
-🌙 Night      61 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.76%
+🌞 Morning    103 commits    ██████░░░░░░░░░░░░░░░░░░░   26.08% 
+🌆 Daytime    125 commits    ████████░░░░░░░░░░░░░░░░░   31.65% 
+🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   24.81% 
+🌙 Night      69 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
-Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Friday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.57% 
-Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.18%
+Monday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
+Tuesday      74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
+Wednesday    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Thursday     41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Friday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.22% 
+Saturday     40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Sunday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94%
 
 ```
 
@@ -63,18 +63,18 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Ruby                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.41%
 
 ```
 
 
 
- Last Updated on 03/07/2021
+ Last Updated on 04/07/2021
 <!--END_SECTION:waka-->
