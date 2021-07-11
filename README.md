@@ -63,18 +63,18 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in Python** 
 
 ```text
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
 Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71%
 
 ```
 
 
 
- Last Updated on 09/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
