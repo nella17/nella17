@@ -21,3 +21,4 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_EDITORS: false
           SHOW_LOC_CHART: false
+          SHOW_LANGUAGE: false
