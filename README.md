@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=nella17&theme=default&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nella17&theme=default&layout=compact&card_width=445)
+
 <!--
 **nella17/nella17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
