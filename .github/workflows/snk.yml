@@ -1,7 +1,7 @@
 name: snk
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "8 3 * * *"
   workflow_dispatch:
 jobs:
   generate:
