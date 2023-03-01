@@ -1,8 +1,11 @@
 name: snk
+
 on:
   schedule:
     - cron: "8 3 * * *"
   workflow_dispatch:
+  push:
+
 jobs:
   generate:
     runs-on: ubuntu-latest
